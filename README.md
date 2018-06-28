@@ -13,9 +13,10 @@ Initial Page Stats:
 
  Current Page Stats:
  
- Mobile Optimization: Medium 65/100
- Desktop Optimization: Medium 76/100
+ Mobile Optimization: Medium 75/100
+ Desktop Optimization: Medium 81/100
  Source: PageSpeed Insight
 
  Image Optimization: 8%
+
  Source: PageWeight
