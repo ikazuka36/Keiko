@@ -1,3 +1,1 @@
-# keiko-corp
-The greatest company ever created
-# Keiko
+This repo is served as a performance practce, credit goes to Udemy 
