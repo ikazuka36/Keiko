@@ -13,10 +13,10 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css"/>
 
     <script type="text/javascript">
-        const loadStyleSheet = src => {
-            if (document.createStylesheet) {
+        const loadStyleSheet = src =>{
+            if(document.createStylesheet){
                 document.createStylesheet(src)
-            } else {
+            }else{
                 const stylesheet = document.createElement('link');
                 stylesheet.href = src;
                 stylesheet.type = 'text/css';
@@ -24,6 +24,7 @@
                 document.getElementsByTagName('head')[0].appendChild(stylesheet)
             }
         }
+
         window.onload = function() {
             console.log('window done!');
             loadStyleSheet('css/animate.css');
